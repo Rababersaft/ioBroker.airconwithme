@@ -1,7 +1,7 @@
 {
     "common": {
         "name": "airconwithme",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "news": {
             "0.0.1": {
                 "en": "initial release",
@@ -26,7 +26,11 @@
                 "es": "Algunas correcciones menores para construir una canalización",
                 "pl": "Kilka drobnych poprawek do budowy potoku",
                 "zh-cn": "一些较小的修复程序来构建管道"
-            }
+            },
+            "0.0.3":{
+            "en": "Some minor fixes",
+            "de": "Korrektur bzw hinzufügen eines weiteren Datenpunktes für die vertikale Luftrichtung"
+            },
         },
         "title": "AirConWithMe",
         "titleLang": {
